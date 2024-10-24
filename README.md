@@ -1,2 +1,4 @@
 # rucijin.github.io
-A personal blogs
+## 博客
+
+$E=mc^2$
